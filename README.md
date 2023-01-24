@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # *Primera Tarea de Python para Sistemas de Gestión Empresarial*
 ## Primera-tarea_python_SGE
 
@@ -39,4 +38,3 @@ Podemos encontrar una serie de ***python files*** repasando conceptos básicos d
 bucles_break_continue.py, diccionarios_metodos.py, matrices.py, lectura_escritura_archivos.py & scanner.py.
 ```
 Es la guía de aprendizaje que estamos siguiendo en el curso.
->>>>>>> 90739e3 (Create README.md)
