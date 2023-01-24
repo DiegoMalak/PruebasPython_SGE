@@ -25,16 +25,3 @@ Este repositorio será actualizado en las próximas semanas con nuevo contenido 
 2. Abrir el proyecto en PyCharm.
 3. Ejecutar cada archivo de Python para practicar los conceptos básicos de Python.
 4. Revisar los comentarios en cada archivo para entender el funcionamiento de cada uno.
-=======
-# Primera-tarea_python_SGE
-
-Este es el primer ejercicio que hemos hecho de python para la asignatura Sistemas de Gestión Empresarial.
-
-## Contenido del repositorio:
-
-Podemos encontrar una serie de ***python files*** repasando conceptos básicos de python.
-```
-- inicio.py, variables.py, bucles.py, condicionales.py, funciones.py, listas.py, diccionarios.py, conversor_tipo.py, 
-bucles_break_continue.py, diccionarios_metodos.py, matrices.py, lectura_escritura_archivos.py & scanner.py.
-```
-Es la guía de aprendizaje que estamos siguiendo en el curso.
